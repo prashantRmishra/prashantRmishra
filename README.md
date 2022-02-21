@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,SpringBoot,Angular,Postgresql
 - 🌱 I’m currently learning Microservices
 
-- 📫 Reach out to me at prashantrmishra2@gmail.com
+- 📫 Reach out to me at pm7044872@gmail.com
 
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
