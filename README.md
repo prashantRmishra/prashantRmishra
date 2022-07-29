@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif" width=400px height = 400px/>
+  <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif" width="40%" height = "40%"/>
   <div id="badges">
     <a href = "https://linkedin.com/in/prashant-mishra-a09254151/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
