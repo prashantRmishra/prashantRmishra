@@ -55,9 +55,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantRmishra)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantrmishra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Leetcode](https://leetcode.card.workers.dev/pm7044872?cache=0)](https://leetcode.com/pm7044872/)
 ---
 
 ### :writing_hand: Blog Posts :
