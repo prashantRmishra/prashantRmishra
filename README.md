@@ -10,6 +10,9 @@
     <a href = "https://prashantmishra.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/> 
     </a>
+    <a href = "https://leetcode.com/pm7044872/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=prashantrmishra&style=flat-square&color=blue" alt=""/>
   <h1>
