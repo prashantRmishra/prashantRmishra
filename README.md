@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Rod cutting Problem &lpar;similar to unbounded knapsack&rpar;](https://dev.to/prashantrmishra/rod-cutting-problem-similar-to-unbounded-knapsack-50ao)
 - [Target Sum or Partition with given difference Leetcode](https://dev.to/prashantrmishra/target-sum-or-partition-with-given-difference-leetcode-108l)
 - [Coin Change 2 Leetcode](https://dev.to/prashantrmishra/coin-change-2-leetcode-4nmc)
 - [Coin change Leetcode](https://dev.to/prashantrmishra/coin-change-leetcode-1b2c)
-- [&lpar;&quot;Graph&quot;&rpar; 797. All Paths From Source to Target](https://dev.to/prashantrmishra/graph-797-all-paths-from-source-to-target-25ln)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
