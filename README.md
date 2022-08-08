@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Minimum Insertion steps needed to make a string palindrome &lpar;Same as LCS&rpar;](https://dev.to/prashantrmishra/minimum-insertion-steps-needed-to-make-a-string-palindrome-same-as-lcs-5lk)
 - [Longest Palindromic subsequence &lpar;Same as Lcs&rpar;](https://dev.to/prashantrmishra/longest-palindromic-subsequence-same-as-lcs-258i)
 - [Minimum Spanning Tree &lpar;Prims Algorithm&rpar;](https://dev.to/prashantrmishra/minimum-spanning-tree-prims-algorithm-3k5a)
 - [Length of longest common substring](https://dev.to/prashantrmishra/length-of-longest-common-substring-4i0k)
-- [Rod cutting Problem &lpar;similar to unbounded knapsack&rpar;](https://dev.to/prashantrmishra/rod-cutting-problem-similar-to-unbounded-knapsack-50ao)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
