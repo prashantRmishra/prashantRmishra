@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Distinct Subsequence Leetcode](https://dev.to/prashantrmishra/distinct-subsequence-leetcode-4e9l)
 - [Shortest Common Super-sequence Leetcode &lpar;Same as Lcs string&rpar;](https://dev.to/prashantrmishra/shortest-common-super-sequence-leetcode-same-as-lcs-string-24g0)
 - [Minimum number of Insertion and deletion needed to convert String A to String B or make both the strings equal &lpar;same as lcs&rpar;](https://dev.to/prashantrmishra/minimum-number-of-insertion-and-deletion-needed-to-convert-string-a-to-string-b-or-make-both-the-strings-equal-same-as-lcs-2k8d)
 - [Minimum Insertion steps needed to make a string palindrome &lpar;Same as LCS&rpar;](https://dev.to/prashantrmishra/minimum-insertion-steps-needed-to-make-a-string-palindrome-same-as-lcs-5lk)
-- [Longest Palindromic subsequence &lpar;Same as Lcs&rpar;](https://dev.to/prashantrmishra/longest-palindromic-subsequence-same-as-lcs-258i)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
