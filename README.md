@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Graph](https://dev.to/prashantrmishra/graph-1ngi)
 - [Binary Tree](https://dev.to/prashantrmishra/binary-tree-1gjp)
 - [Arrays](https://dev.to/prashantrmishra/arrays-2k66)
 - [Brides in the graph](https://dev.to/prashantrmishra/brides-in-the-graph-44dc)
-- [Minimum Spanning Tree &lpar;Kruskal&#39;s algorithm&rpar; Using Disjoint set](https://dev.to/prashantrmishra/minimum-spanning-tree-kruskal-algorithm-using-disjoint-set-2po5)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
