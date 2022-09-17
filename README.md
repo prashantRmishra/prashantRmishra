@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Binary Search Tree](https://dev.to/prashantrmishra/binary-search-tree-lhl)
 - [String](https://dev.to/prashantrmishra/string-1ahe)
 - [Strongly connected components in the graph](https://dev.to/prashantrmishra/strongly-connected-components-in-the-graph-1bih)
 - [Graph](https://dev.to/prashantrmishra/graph-1ngi)
-- [Binary Tree](https://dev.to/prashantrmishra/binary-tree-1gjp)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
