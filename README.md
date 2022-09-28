@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Recursion and backtracking](https://dev.to/prashantrmishra/recursion-and-backtracking-mc0)
 - [Recursion](https://dev.to/prashantrmishra/recursion-4301)
 - [Heap&lpar;Priority Queue&rpar;](https://dev.to/prashantrmishra/heappriority-queue-4c4f)
 - [DP](https://dev.to/prashantrmishra/dp-19d1)
-- [Stack and Queue](https://dev.to/prashantrmishra/stack-and-queue-nde)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
