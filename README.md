@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Buy and sell stocks](https://dev.to/prashantrmishra/buy-and-sell-stocks-527h)
 - [Two sums](https://dev.to/prashantrmishra/two-sums-4f1l)
 - [LinkedList](https://dev.to/prashantrmishra/linkedlist-3a0f)
 - [Rotting oranges](https://dev.to/prashantrmishra/rotting-oranges-4efe)
-- [Recursion and backtracking](https://dev.to/prashantrmishra/recursion-and-backtracking-mc0)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
