@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 features](https://dev.to/prashantrmishra/java-8-features-2c01)
 - [Partition with given difference](https://dev.to/prashantrmishra/partition-with-given-difference-5ek)
 - [Inner classes in Java](https://dev.to/prashantrmishra/inner-classes-in-java-2ln1)
 - [Max product subarray](https://dev.to/prashantrmishra/max-product-subarray-44po)
-- [Maximum sub array sum](https://dev.to/prashantrmishra/maximum-sub-array-sum-5bi6)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
