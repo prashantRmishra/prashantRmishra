@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Delete the Nth node from the end of the LinkedList](https://dev.to/prashantrmishra/delete-the-nth-node-from-the-end-of-the-linkedlist-3fhg)
+- [Sort the given LinkedList](https://dev.to/prashantrmishra/sort-the-given-linkedlist-2ja2)
 - [Odd-even LinkedList](https://dev.to/prashantrmishra/odd-even-linkedlist-16ol)
 - [Intersection of two LinkedLists](https://dev.to/prashantrmishra/intersection-of-two-linkedlists-15g7)
-- [Check Loop in LinkedList](https://dev.to/prashantrmishra/check-loop-in-linkedlist-ie9)
-- [Java 8 features](https://dev.to/prashantrmishra/java-8-features-2c01)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
