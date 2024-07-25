@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Arrays](https://dev.to/prashantrmishra/arrays-180b)
 - [Binary Search](https://dev.to/prashantrmishra/binary-search-43mk)
 - [Delete the Nth node from the end of the LinkedList](https://dev.to/prashantrmishra/delete-the-nth-node-from-the-end-of-the-linkedlist-3fhg)
 - [Sort the given LinkedList](https://dev.to/prashantrmishra/sort-the-given-linkedlist-2ja2)
-- [Odd-even LinkedList](https://dev.to/prashantrmishra/odd-even-linkedlist-16ol)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
