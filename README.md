@@ -29,11 +29,11 @@
 ### :man_technologist: About me !
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web application.
+- :telescope: I’m a software engineer who contributes to the backend of web application building.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on <a href = "https://leetcode.com/pm7044872/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width=90px height = 17px></a> and read tech articles.
+- :zap: In my free time, I solve problems on <a href = "https://leetcode.com/pm7044872/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width=90px height = 17px></a>.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-prashantrmishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/prashant-mishra-a09254151/)
 
