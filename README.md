@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Floyd Warshall Algorithm &lpar;Multi-source shorted path&rpar;](https://dev.to/prashantrmishra/floyd-warshall-algorithm-498e)
 - [Bellman ford algorithm&lpar;Single Source Shorted Path in DAG&rpar;](https://dev.to/prashantrmishra/bellman-ford-algorithmsingle-source-shorted-path-in-dag-1clc)
 - [Trie](https://dev.to/prashantrmishra/trie-e56)
 - [Arrays](https://dev.to/prashantrmishra/arrays-180b)
-- [Binary Search](https://dev.to/prashantrmishra/binary-search-43mk)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
