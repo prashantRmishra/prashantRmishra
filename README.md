@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Interface Segregation Principle](https://dev.to/prashantrmishra/interface-segregation-principle-4e97)
+- [Liskov Substitution Principle](https://dev.to/prashantrmishra/liskov-substitution-principle-2a0n)
 - [Open Close Principle](https://dev.to/prashantrmishra/open-close-principle-a7h)
 - [Single Responsibility Principle](https://dev.to/prashantrmishra/single-responsibility-principle-m8n)
-- [Disjoint set graph with union by rank and union by size](https://dev.to/prashantrmishra/disjoint-set-graph-with-union-by-rank-and-union-by-size-4a2i)
-- [Disjoint Set Graph Learning](https://dev.to/prashantrmishra/disjoint-set-graph-learning-1f4n)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
