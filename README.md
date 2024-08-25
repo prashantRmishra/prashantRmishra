@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Inversion Principle](https://dev.to/prashantrmishra/dependency-inversion-principle-2if7)
 - [Interface Segregation Principle](https://dev.to/prashantrmishra/interface-segregation-principle-4e97)
 - [Liskov Substitution Principle](https://dev.to/prashantrmishra/liskov-substitution-principle-2a0n)
 - [Open Close Principle](https://dev.to/prashantrmishra/open-close-principle-a7h)
-- [Single Responsibility Principle](https://dev.to/prashantrmishra/single-responsibility-principle-m8n)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
