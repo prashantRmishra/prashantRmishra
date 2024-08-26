@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Abstract Factory and Factory Pattern](https://dev.to/prashantrmishra/difference-between-abstract-factory-and-factory-pattern-1bjp)
+- [Abstract factory method](https://dev.to/prashantrmishra/abstract-factory-method-5220)
+- [Factory method](https://dev.to/prashantrmishra/factory-method-4ncf)
 - [Dependency Inversion Principle](https://dev.to/prashantrmishra/dependency-inversion-principle-2if7)
-- [Interface Segregation Principle](https://dev.to/prashantrmishra/interface-segregation-principle-4e97)
-- [Liskov Substitution Principle](https://dev.to/prashantrmishra/liskov-substitution-principle-2a0n)
-- [Open Close Principle](https://dev.to/prashantrmishra/open-close-principle-a7h)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
