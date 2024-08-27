@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Singleton design pattern](https://dev.to/prashantrmishra/singleton-design-pattern-3ioj)
 - [Difference between Abstract Factory and Factory Pattern](https://dev.to/prashantrmishra/difference-between-abstract-factory-and-factory-pattern-1bjp)
 - [Abstract factory method](https://dev.to/prashantrmishra/abstract-factory-method-5220)
 - [Factory method](https://dev.to/prashantrmishra/factory-method-4ncf)
-- [Dependency Inversion Principle](https://dev.to/prashantrmishra/dependency-inversion-principle-2if7)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
