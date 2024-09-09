@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Knuth Morris Prat algorithm[Pattern Matching]](https://dev.to/prashantrmishra/knuth-morris-prat-algorithm-13hd)
-- [Facade Design Pattern](https://dev.to/prashantrmishra/facade-design-pattern-1lk7)
-- [Design Patterns](https://dev.to/prashantrmishra/design-patterns-18ea)
-- [Decorator](https://dev.to/prashantrmishra/decorator-2kof)
+- [Number of Substrings Containing All Three Characters](https://dev.to/prashantrmishra/number-of-substrings-containing-all-three-characters-4pb0)
+- [Fruits in Baskets](https://dev.to/prashantrmishra/fruits-in-baskets-ed6)
+- [Max consecutive one&#39;s III](https://dev.to/prashantrmishra/max-consecutive-ones-iii-52jm)
+- [Maximum points you can obtain from cards](https://dev.to/prashantrmishra/maximum-points-you-can-obtain-from-cards-1o3p)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
