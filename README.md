@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Prototype](https://dev.to/prashantrmishra/prototype-15hn)
+- [command](https://dev.to/prashantrmishra/command-p16)
 - [Strategy](https://dev.to/prashantrmishra/strategy-5d06)
 - [Observer](https://dev.to/prashantrmishra/observer-17jb)
-- [Longest repeating character replacement](https://dev.to/prashantrmishra/longest-repeating-character-replacement-1ppg)
-- [Number of Substrings Containing All Three Characters](https://dev.to/prashantrmishra/number-of-substrings-containing-all-three-characters-4pb0)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
