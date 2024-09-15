@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Chain of responsibility](https://dev.to/prashantrmishra/chain-of-responsibility-43a4)
 - [Minimum window substring](https://dev.to/prashantrmishra/minimum-window-substring-3khn)
 - [Prototype](https://dev.to/prashantrmishra/prototype-15hn)
 - [command](https://dev.to/prashantrmishra/command-p16)
-- [Strategy](https://dev.to/prashantrmishra/strategy-5d06)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
