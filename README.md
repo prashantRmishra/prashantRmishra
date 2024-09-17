@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Minimum Bit Flips to Convert Number](https://dev.to/prashantrmishra/minimum-bit-flips-to-convert-number-5c7i)
 - [Two best non overlapping events](https://dev.to/prashantrmishra/two-best-non-overlapping-events-4ne3)
 - [Flyweight](https://dev.to/prashantrmishra/flyweight-3k4b)
 - [Memento](https://dev.to/prashantrmishra/memento-21pk)
-- [Mediator](https://dev.to/prashantrmishra/mediator-171p)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
