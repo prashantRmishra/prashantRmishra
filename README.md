@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Single Number 2](https://dev.to/prashantrmishra/single-number-2-30ce)
 - [Single Number I](https://dev.to/prashantrmishra/single-number-i-3fb7)
 - [Power set](https://dev.to/prashantrmishra/power-set-366m)
 - [Bit Manipulation tips and tricks](https://dev.to/prashantrmishra/bit-manipulation-4a0i)
-- [Minimum Bit Flips to Convert Number](https://dev.to/prashantrmishra/minimum-bit-flips-to-convert-number-5c7i)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
