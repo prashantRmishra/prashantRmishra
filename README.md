@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [State](https://dev.to/prashantrmishra/state-i89)
 - [Template](https://dev.to/prashantrmishra/template-2pl8)
 - [Proxy](https://dev.to/prashantrmishra/proxy-52fp)
 - [Xor of N numbers](https://dev.to/prashantrmishra/xor-of-n-numbers-376j)
-- [Single number 3](https://dev.to/prashantrmishra/single-number-3-1pfm)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
