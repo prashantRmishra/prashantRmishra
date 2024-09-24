@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Word Search II](https://dev.to/prashantrmishra/word-search-ii-4dpp)
 - [Longest substring without repeating characters](https://dev.to/prashantrmishra/longest-substring-without-repeating-characters-5a70)
 - [State](https://dev.to/prashantrmishra/state-i89)
 - [Template](https://dev.to/prashantrmishra/template-2pl8)
-- [Proxy](https://dev.to/prashantrmishra/proxy-52fp)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
