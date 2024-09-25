@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Divide two integers without using division or multiplication operators](https://dev.to/prashantrmishra/divide-two-integers-without-using-division-or-multiplication-operators-2bne)
 - [Word Search II](https://dev.to/prashantrmishra/word-search-ii-4dpp)
 - [Longest substring without repeating characters](https://dev.to/prashantrmishra/longest-substring-without-repeating-characters-5a70)
 - [State](https://dev.to/prashantrmishra/state-i89)
-- [Template](https://dev.to/prashantrmishra/template-2pl8)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
