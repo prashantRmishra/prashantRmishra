@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Number of islands](https://dev.to/prashantrmishra/number-of-islands-3pk3)
 - [Insert into binary search tree](https://dev.to/prashantrmishra/insert-into-binary-search-tree-5h4p)
 - [Inorder traversal of a binary tree](https://dev.to/prashantrmishra/inorder-traversal-of-a-binary-tree-1p4i)
 - [Divide two integers without using division or multiplication operators](https://dev.to/prashantrmishra/divide-two-integers-without-using-division-or-multiplication-operators-2bne)
-- [Word Search II](https://dev.to/prashantrmishra/word-search-ii-4dpp)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
