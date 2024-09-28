@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
 - [Design youtube](https://dev.to/prashantrmishra/design-youtube-n19)
 - [Number of islands](https://dev.to/prashantrmishra/number-of-islands-3pk3)
 - [Insert into binary search tree](https://dev.to/prashantrmishra/insert-into-binary-search-tree-5h4p)
-- [Inorder traversal of a binary tree](https://dev.to/prashantrmishra/inorder-traversal-of-a-binary-tree-1p4i)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
