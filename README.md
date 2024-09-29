@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Longest increasing subsequence](https://dev.to/prashantrmishra/longest-increasing-subsequence-nio)
 - [count-of-substrings-containing-every-vowel-and-k-consonants-i](https://dev.to/prashantrmishra/count-of-substrings-containing-every-vowel-and-k-consonants-i-44g8)
 - [Sort character by frequency](https://dev.to/prashantrmishra/sort-character-by-frequency-2nkh)
 - [Design Twitter](https://dev.to/prashantrmishra/design-twitter-25f7)
-- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
