@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Grid unique path](https://dev.to/prashantrmishra/grid-unique-path-5490)
+- [Maximum product subarray](https://dev.to/prashantrmishra/maximum-product-subarray-33ao)
 - [Edit distance](https://dev.to/prashantrmishra/edit-distance-3gjg)
 - [Longest increasing subsequence](https://dev.to/prashantrmishra/longest-increasing-subsequence-nio)
-- [count-of-substrings-containing-every-vowel-and-k-consonants-i](https://dev.to/prashantrmishra/count-of-substrings-containing-every-vowel-and-k-consonants-i-44g8)
-- [Sort character by frequency](https://dev.to/prashantrmishra/sort-character-by-frequency-2nkh)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
