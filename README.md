@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Choosing database in system design](https://dev.to/prashantrmishra/choosing-database-in-system-design-2c27)
 - [Target sum](https://dev.to/prashantrmishra/target-sum-4ibb)
 - [Design Spotify](https://dev.to/prashantrmishra/design-spotify-3oii)
 - [Common Terminology in System design](https://dev.to/prashantrmishra/common-terminology-in-system-design-1jhh)
-- [Grid unique path](https://dev.to/prashantrmishra/grid-unique-path-5490)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
