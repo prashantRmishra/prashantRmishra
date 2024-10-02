@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Design Spotify](https://dev.to/prashantrmishra/design-spotify-3oii)
+- [Common Terminology in System design](https://dev.to/prashantrmishra/common-terminology-in-system-design-1jhh)
 - [Grid unique path](https://dev.to/prashantrmishra/grid-unique-path-5490)
 - [Maximum product subarray](https://dev.to/prashantrmishra/maximum-product-subarray-33ao)
-- [Edit distance](https://dev.to/prashantrmishra/edit-distance-3gjg)
-- [Longest increasing subsequence](https://dev.to/prashantrmishra/longest-increasing-subsequence-nio)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
