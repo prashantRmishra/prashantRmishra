@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Maximum Possible Number by Binary Concatenation](https://dev.to/prashantrmishra/maximum-possible-number-by-binary-concatenation-2ea3)
+- [Remove Methods from project](https://dev.to/prashantrmishra/remove-methods-from-project-53ph)
 - [Count Substrings That Can Be Rearranged to Contain a String I](https://dev.to/prashantrmishra/count-substrings-that-can-be-rearranged-to-contain-a-string-i-5fgj)
 - [House robber III](https://dev.to/prashantrmishra/house-robber-iii-3b2g)
-- [Maximum Multiplication Score](https://dev.to/prashantrmishra/maximum-multiplication-score-747)
-- [Choosing database in system design](https://dev.to/prashantrmishra/choosing-database-in-system-design-2c27)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
