@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Jump Game II](https://dev.to/prashantrmishra/jump-game-ii-4h3o)
 - [Find safest walk through the grid](https://dev.to/prashantrmishra/find-safest-walk-through-the-grid-1c1i)
 - [Design Rate Limiter](https://dev.to/prashantrmishra/design-rate-limiter-42oc)
 - [Maximum Possible Number by Binary Concatenation](https://dev.to/prashantrmishra/maximum-possible-number-by-binary-concatenation-2ea3)
-- [Remove Methods from project](https://dev.to/prashantrmishra/remove-methods-from-project-53ph)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
