@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Interval list intersections](https://dev.to/prashantrmishra/interval-list-intersections-1ahp)
+- [Partition of label](https://dev.to/prashantrmishra/partition-of-label-1n0d)
 - [Merge Intervals](https://dev.to/prashantrmishra/merge-intervals-5c0m)
 - [Design Search feature of twitter](https://dev.to/prashantrmishra/design-search-feature-of-twitter-417p)
-- [Jump Game II](https://dev.to/prashantrmishra/jump-game-ii-4h3o)
-- [Find safest walk through the grid](https://dev.to/prashantrmishra/find-safest-walk-through-the-grid-1c1i)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
