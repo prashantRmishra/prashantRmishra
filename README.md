@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Maximum swap](https://dev.to/prashantrmishra/maximum-swap-3bhf)
+- [Maximum swap](https://dev.to/prashantrmishra/maximum-swap-2ajm)
 - [Longest Happy String](https://dev.to/prashantrmishra/longest-happy-string-b4l)
 - [Interval list intersections](https://dev.to/prashantrmishra/interval-list-intersections-1ahp)
-- [Partition of label](https://dev.to/prashantrmishra/partition-of-label-1n0d)
-- [Merge Intervals](https://dev.to/prashantrmishra/merge-intervals-5c0m)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
