@@ -71,8 +71,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [Protocols](https://dev.to/prashantrmishra/protocols-2f4a)
 - [Maximum swap](https://dev.to/prashantrmishra/maximum-swap-3bhf)
-- [Maximum swap](https://dev.to/prashantrmishra/maximum-swap-2ajm)
 - [Longest Happy String](https://dev.to/prashantrmishra/longest-happy-string-b4l)
+- [Interval list intersections](https://dev.to/prashantrmishra/interval-list-intersections-1ahp)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
