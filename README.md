@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Count Number of Maximum Bitwise-OR Subsets](https://dev.to/prashantrmishra/count-number-of-maximum-bitwise-or-subsets-2i7l)
 - [Protocols](https://dev.to/prashantrmishra/protocols-2f4a)
 - [Maximum swap](https://dev.to/prashantrmishra/maximum-swap-3bhf)
 - [Longest Happy String](https://dev.to/prashantrmishra/longest-happy-string-b4l)
-- [Interval list intersections](https://dev.to/prashantrmishra/interval-list-intersections-1ahp)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
