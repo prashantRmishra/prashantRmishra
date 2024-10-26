@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Elastic search deep dive](https://dev.to/prashantrmishra/elastic-search-deep-dive-52ch)
 - [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
 - [kafka deep dive](https://dev.to/prashantrmishra/kafka-deep-dive-4l7n)
-- [How Redis works](https://dev.to/prashantrmishra/how-redis-works-8l1)
-- [Minimum Division Operations to Make Array Non Decreasing](https://dev.to/prashantrmishra/minimum-division-operations-to-make-array-non-decreasing-4b5g)
+- [How Redis works&lpar;deep dive&rpar;](https://dev.to/prashantrmishra/how-redis-works-8l1)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
