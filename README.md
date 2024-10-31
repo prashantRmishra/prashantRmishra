@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Design Ticket Master](https://dev.to/prashantrmishra/design-ticket-master-5e2f)
 - [Facebook News Feed](https://dev.to/prashantrmishra/facebook-news-feed-3bdb)
 - [Remove Sub-Folders from the Filesystem](https://dev.to/prashantrmishra/remove-sub-folders-from-the-filesystem-iae)
 - [Elastic search deep dive](https://dev.to/prashantrmishra/elastic-search-deep-dive-52ch)
-- [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
