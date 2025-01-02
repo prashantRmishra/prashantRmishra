@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Count vowel strings in ranges](https://dev.to/prashantrmishra/count-vowel-strings-in-ranges-44p1)
+- [Range Sum Query - Immutable](https://dev.to/prashantrmishra/range-sum-query-immutable-pab)
 - [Job Scheduling Problem with Max Profit](https://dev.to/prashantrmishra/job-scheduling-problem-with-max-profit-40n9)
 - [Non overlapping intervals](https://dev.to/prashantrmishra/non-overlapping-intervals-2jhh)
-- [Minimum No. of arrows to burst balloons](https://dev.to/prashantrmishra/minimum-no-of-arrows-to-burst-balloons-1aaa)
-- [Minimum number of platforms required](https://dev.to/prashantrmishra/minimum-number-of-platforms-required-oag)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
