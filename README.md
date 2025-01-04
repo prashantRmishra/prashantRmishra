@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Find all anagrams in the string[Fixed Window pattern]](https://dev.to/prashantrmishra/find-all-anagrams-in-the-stringfixed-window-pattern-2cf0)
 - [No of ways to split Array](https://dev.to/prashantrmishra/no-of-ways-to-split-array-2efa)
 - [Range sum query 2D - Immutable](https://dev.to/prashantrmishra/range-sum-query-2d-immutable-4oa)
 - [Count vowel strings in ranges](https://dev.to/prashantrmishra/count-vowel-strings-in-ranges-44p1)
-- [Range Sum Query - Immutable](https://dev.to/prashantrmishra/range-sum-query-immutable-pab)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
