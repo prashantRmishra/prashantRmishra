@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Count prefix and suffix I and II](https://dev.to/prashantrmishra/count-prefix-and-suffix-i-and-ii-2p6k)
 - [Rabin Karp &lpar;hashing&rpar; String pattern matching](https://dev.to/prashantrmishra/rabin-karp-hashing-string-pattern-matching-4bhn)
 - [Min no. of operations to move all balls to each box](https://dev.to/prashantrmishra/min-no-of-operations-to-move-all-balls-to-each-box-4dl7)
 - [Find all anagrams in the string[Fixed Window pattern]](https://dev.to/prashantrmishra/find-all-anagrams-in-the-stringfixed-window-pattern-2cf0)
-- [No of ways to split Array](https://dev.to/prashantrmishra/no-of-ways-to-split-array-2efa)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
