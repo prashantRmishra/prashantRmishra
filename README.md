@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Minimum obstacle removal to reach corner](https://dev.to/prashantrmishra/minimum-obstacle-removal-to-reach-corner-3e53)
 - [Walls and Gates](https://dev.to/prashantrmishra/walls-and-gates-40gb)
 - [Safest walk through the grid](https://dev.to/prashantrmishra/safest-walk-through-the-grid-170f)
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://dev.to/prashantrmishra/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid-f93)
-- [Count &lpar;*&rpar; between pipes &lpar;|&rpar;](https://dev.to/prashantrmishra/count-between-pipes-6ng)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
