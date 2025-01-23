@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Grid Game](https://dev.to/prashantrmishra/grid-game-4225)
 - [Sum of variable length subarray](https://dev.to/prashantrmishra/sum-of-variable-length-subarray-3ak5)
 - [Minimum obstacle removal to reach corner](https://dev.to/prashantrmishra/minimum-obstacle-removal-to-reach-corner-3e53)
 - [Walls and Gates](https://dev.to/prashantrmishra/walls-and-gates-40gb)
-- [Safest walk through the grid](https://dev.to/prashantrmishra/safest-walk-through-the-grid-170f)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
