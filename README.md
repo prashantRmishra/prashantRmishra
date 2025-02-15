@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Spiral matrix](https://dev.to/prashantrmishra/spiral-matrix-102h)
 - [Design and search word](https://dev.to/prashantrmishra/design-and-search-word-218p)
 - [Grid Game](https://dev.to/prashantrmishra/grid-game-4225)
 - [Sum of variable length subarray](https://dev.to/prashantrmishra/sum-of-variable-length-subarray-3ak5)
-- [Minimum obstacle removal to reach corner](https://dev.to/prashantrmishra/minimum-obstacle-removal-to-reach-corner-3e53)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
