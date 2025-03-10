@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Count of Substrings Containing Every Vowel and K Consonants II](https://dev.to/prashantrmishra/count-of-substrings-containing-every-vowel-and-k-consonants-ii-43m6)
 - [Circular Sorting](https://dev.to/prashantrmishra/circular-sorting-24bk)
 - [Spiral matrix](https://dev.to/prashantrmishra/spiral-matrix-102h)
 - [Design and search word](https://dev.to/prashantrmishra/design-and-search-word-218p)
-- [Grid Game](https://dev.to/prashantrmishra/grid-game-4225)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
