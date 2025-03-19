@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Valid Binary Search Tree](https://dev.to/prashantrmishra/valid-binary-search-tree-527o)
 - [Minimum Time to repair cars](https://dev.to/prashantrmishra/minimum-time-to-repair-cars-3ho4)
 - [House Robber IV](https://dev.to/prashantrmishra/house-robber-iv-2jp3)
 - [Maximum Candies Allocated to K Children](https://dev.to/prashantrmishra/maximum-candies-allocated-to-k-children-1nfb)
-- [Count of Substrings Containing Every Vowel and K Consonants II](https://dev.to/prashantrmishra/count-of-substrings-containing-every-vowel-and-k-consonants-ii-43m6)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
