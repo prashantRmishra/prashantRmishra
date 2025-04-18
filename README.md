@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Copy Linked List with random pointer](https://dev.to/prashantrmishra/copy-linked-list-with-random-pointer-4kj7)
 - [Add 1 to the list](https://dev.to/prashantrmishra/add-1-to-the-list-h7p)
 - [Largest Divisible subset](https://dev.to/prashantrmishra/largest-divisible-subset-4gcl)
 - [Daily Temperatures](https://dev.to/prashantrmishra/daily-temperatures-14gg)
-- [Clone graph](https://dev.to/prashantrmishra/clone-graph-12fg)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
