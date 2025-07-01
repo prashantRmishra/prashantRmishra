@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Bitonic Point](https://dev.to/prashantrmishra/bitonic-point-21j5)
 - [Swap Kth node from start and end of a LinkedList](https://dev.to/prashantrmishra/swap-kth-node-from-start-and-end-of-a-linkedlist-1c10)
 - [Find target in bitonic array with unique elements](https://dev.to/prashantrmishra/find-target-in-bitonic-array-with-unique-elements-10ll)
 - [3543. Maximum Weighted K-Edge Path](https://dev.to/prashantrmishra/3543-maximum-weighted-k-edge-path-26)
-- [Grid Teleportation Traversal](https://dev.to/prashantrmishra/grid-teleportation-traversal-1j39)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
