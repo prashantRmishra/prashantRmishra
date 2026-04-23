@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Pattern: Sliding window](https://dev.to/prashantrmishra/pattern-sliding-window-4ac7)
 - [Pattern: Prefix sum](https://dev.to/prashantrmishra/pattern-prefix-sum-3lik)
 - [Pattern: Overlapping intervals](https://dev.to/prashantrmishra/pattern-overlapping-intervals-2hm0)
 - [Pattern: Slow fast pointer](https://dev.to/prashantrmishra/pattern-slow-fast-pointer-1lkc)
-- [Design LinkedList](https://dev.to/prashantrmishra/design-linkedlist-4ih7)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
