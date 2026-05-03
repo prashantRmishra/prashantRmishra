@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Pattern: Permutations](https://dev.to/prashantrmishra/pattern-permutations-580k)
 - [Pattern: DFS Algo](https://dev.to/prashantrmishra/pattern-dfs-algo-d11)
 - [Pattern: Matrix Manupulation](https://dev.to/prashantrmishra/pattern-matrix-manupulation-2pm8)
 - [Pattern: Reverse LinkedList](https://dev.to/prashantrmishra/pattern-reverse-linkedlist-4c5e)
-- [Pattern:Cyclic Sort](https://dev.to/prashantrmishra/patterncyclic-sort-17o5)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
