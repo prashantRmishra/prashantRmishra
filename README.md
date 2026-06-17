@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Allocate minimum pages](https://dev.to/prashantrmishra/allocate-minimum-pages-5cjk)
 - [Aggressive Cows](https://dev.to/prashantrmishra/aggressive-cows-526h)
 - [Coco eating banana](https://dev.to/prashantrmishra/coco-eating-banana-3em3)
 - [Count Inversion using merge sort](https://dev.to/prashantrmishra/count-inversion-using-merge-sort-mg3)
-- [Algo: Binary Search](https://dev.to/prashantrmishra/algo-binary-search-4ldl)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
