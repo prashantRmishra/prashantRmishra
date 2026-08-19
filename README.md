@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Pattern: Array](https://dev.to/prashantrmishra/pattern-array-7c0)
 - [Pattern: BST](https://dev.to/prashantrmishra/delete-a-node-in-bst-42g7)
 - [Word search](https://dev.to/prashantrmishra/word-search-p3h)
 - [N queen Problem](https://dev.to/prashantrmishra/n-queen-problem-4jbc)
-- [Remove Nth node from the end of the LinkedList](https://dev.to/prashantrmishra/remove-nth-node-from-the-end-of-the-linkedlist-1lcn)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
