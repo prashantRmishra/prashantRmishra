@@ -69,10 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Check if Binary String has atmost One segment of ones](https://dev.to/prashantrmishra/check-if-binary-string-has-atmost-one-segment-of-ones-4n3g)
+- [Minimum Elements to Add to Form a Given Sum](https://dev.to/prashantrmishra/minimum-elements-to-add-to-form-a-given-sum-5b06)
+- [Number of Restricted Paths From First to Last Node](https://dev.to/prashantrmishra/number-of-restricted-paths-from-first-to-last-node-3b0)
 - [Minimum Amount of time to Brew Potion](https://dev.to/prashantrmishra/minimum-amount-of-time-to-brew-potion-lca)
-- [Bust Balloons](https://dev.to/prashantrmishra/bust-balloons-4aci)
-- [Cherry Pickup](https://dev.to/prashantrmishra/cherry-pickup-6m5)
-- [Pattern: Array](https://dev.to/prashantrmishra/pattern-array-7c0)
 <!-- BLOG-POST-LIST:END -->
 <!---
 prashantRmishra/prashantRmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
